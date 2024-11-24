@@ -1,0 +1,4 @@
+This is feature A
+Conflict line from feature-a
+Conflict line from feature-a
+Conflict line from master
